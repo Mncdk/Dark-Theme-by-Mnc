@@ -19,7 +19,7 @@
       "ntp_link" : [0, 255, 255],
       "ntp_section" : [255, 0, 255],
       "ntp_header" : [50, 50, 50],
-      "button_background" : [150, 100, 100]
+      "button_background" : [125, 100, 100]
     }
   }
 }
