@@ -7,12 +7,12 @@
     "colors" : {
       "frame" : [50, 50, 50],
       "frame_inactive" : [100, 100, 150],
-      "background_tab" : [130, 130, 255],
+      "background_tab" : [130, 130, 130],
       "background_tab_inactive" : [155, 155, 155],
       "toolbar" : [100, 100, 100],
-      "tab_text" : [255, 255, 0],
+      "tab_text" : [255, 255, 255],
       "tab_text_inactive" : [0, 0, 255],
-      "tab_background_text" : [75, 75, 75],
+      "tab_background_text" : [75, 75, 255],
       "tab_background_text_inactive" : [0, 0, 0],
       "bookmark_text" : [200, 200, 200],
       "ntp_text" : [255, 255, 0],
@@ -21,11 +21,5 @@
       "ntp_header" : [50, 50, 50],
       "button_background" : [150, 100, 100]
     },
-    "tints" : {
-      "buttons" : [0.33, 0.5, 0.47]
-    },
-    "properties" : {
-      "ntp_background_alignment" : "bottom"
-    }
   }
 }
