@@ -7,9 +7,9 @@
     "colors" : {
       "frame" : [50, 50, 50],
       "frame_inactive" : [100, 100, 100],
-      "background_tab" : [255, 0, 0],
-      "background_tab_inactive" : [0, 0, 255],
-      "toolbar" : [111, 111, 111],
+      "background_tab" : [70, 70, 70],
+      "background_tab_inactive" : [125, 125, 125],
+      "toolbar" : [100, 100, 100],
       "tab_text" : [150, 150, 150],
       "tab_text_inactive" : [75, 75, 75],
       "tab_background_text" : [75, 150, 255],
