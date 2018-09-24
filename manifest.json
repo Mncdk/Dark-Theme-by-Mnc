@@ -5,11 +5,11 @@
   "version": "0.1",
   "theme": {
     "colors" : {
-      "frame" : [255, 255, 0],
-      "toolbar" : [0, 255, 255],
-      "ntp_text" : [255, 0, 0],
-      "ntp_link" : [0, 255, 0],
-      "ntp_section" : [0, 0, 255],
+      "frame" : [71, 71, 71],
+      "toolbar" : [111, 111, 111],
+      "ntp_text" : [255, 255, 0],
+      "ntp_link" : [0, 255, 255],
+      "ntp_section" : [255, 0, 255],
       "button_background" : [255, 255, 255]
     },
     "tints" : {
