@@ -13,7 +13,7 @@
       "tab_text" : [150, 150, 150],
       "tab_text_inactive" : [75, 75, 75],
       "tab_background_text" : [75, 150, 255],
-      "tab_background_text_inactive" : [255, 150, 45],
+      "tab_background_text_inactive" : [255, 255, 45],
       "bookmark_text" : [200, 200, 200],
       "ntp_text" : [255, 255, 0],
       "ntp_link" : [0, 255, 255],
