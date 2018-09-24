@@ -20,6 +20,6 @@
       "ntp_section" : [255, 0, 255],
       "ntp_header" : [50, 50, 50],
       "button_background" : [150, 100, 100]
-    },
+    }
   }
 }
