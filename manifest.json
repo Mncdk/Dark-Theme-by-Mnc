@@ -1,8 +1,8 @@
 {
   "description": "Build an Extension!",
-  "manifest_version": 1  
+  "manifest_version": 1,
   "name": "Mnc Grey theme",
-  "version": "0.1",  
+  "version": "0.1",
   "theme": {
     "colors" : {
       "frame" : [71, 105, 91],
