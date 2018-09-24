@@ -10,16 +10,16 @@
       "background_tab" : [70, 70, 70],
       "background_tab_inactive" : [125, 125, 125],
       "toolbar" : [100, 100, 100],
-      "tab_text" : [150, 150, 150],
+      "tab_text" : [175, 175, 175],
       "tab_text_inactive" : [75, 75, 75],
-      "tab_background_text" : [75, 150, 255],
+      "tab_background_text" : [0, 50, 255],
       "tab_background_text_inactive" : [255, 255, 45],
       "bookmark_text" : [200, 200, 200],
       "ntp_text" : [255, 255, 0],
       "ntp_link" : [0, 255, 255],
       "ntp_section" : [255, 0, 255],
       "ntp_header" : [0,0,0],
-      "button_background" : [255, 100, 100]
+      "button_background" : [150, 100, 100]
     },
     "tints" : {
       "buttons" : [0.33, 0.5, 0.47]
