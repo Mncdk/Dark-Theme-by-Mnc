@@ -10,7 +10,7 @@
       "background_tab" : [130, 130, 130],
       "background_tab_inactive" : [155, 155, 155],
       "toolbar" : [100, 100, 100],
-      "tab_text" : [255, 255, 255],
+      "tab_text" : [255, 100, 255],
       "tab_text_inactive" : [0, 0, 255],
       "tab_background_text" : [75, 75, 255],
       "tab_background_text_inactive" : [0, 0, 0],
