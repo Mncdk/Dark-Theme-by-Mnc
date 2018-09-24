@@ -16,6 +16,7 @@
       "tab_background_text_inactive" : [0, 255, 0],
       "bookmark_text" : [175, 175, 175],
       "ntp_text" : [255, 255, 0],
+      "ntp_background" : [0, 0, 0],
       "ntp_link" : [0, 255, 255],
       "ntp_section" : [255, 0, 255],
       "ntp_header" : [50, 50, 50],
