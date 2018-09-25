@@ -1,0 +1,20 @@
+0.8
+
+  Changed version to 0.8 just to indicate that I'm closer to a version that I'm happy with.
+  I'm writing this the day after finishing up 0.8, so there are a few things I'd like to tweak still.
+  I'll get closer to a final version as I use the theme, and get a feel for everything.
+  ...Still need to dial things in...
+  I like the min,max,close buttons slightly red.
+  I like the frame dark, but probably want it a little darker.
+  May want the toolbar (and current tab) a little darker to match, but with a smaller change.
+  Probably want inactive tabs less bright, but the active tab should still stand out a lot.
+  
+  I also need to figure out how much to write down. How many steps to document for posterity.
+  Whether it's to explain to others what have changed, or remind myself if I want to change things
+ at a later date.
+
+0.2
+
+  F#¤cked around with colors, making everything weird and ugly.
+  Just so all the red, green, blue, cyan, magenta and yellow things would stand out, so everything
+ was easier to identify, and dial in the final colors.
