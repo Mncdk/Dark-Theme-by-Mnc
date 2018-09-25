@@ -1,3 +1,8 @@
 # Grey
-Eh, I wanted something that I couldn't immediately find, a dark-ish theme that isn't super dark, and where different tabs can be told apart.
-With stock Chrome 69 and the new tabs, I can't always tell which tab is active. I wanted to make a theme that changes that + gives me a tailormade dark theme.
+This is just a Chrome theme. There isn't a lot of stuff to make a README for.
+You should just be able to click the "add to chrome" button in the webstore or whatever.
+
+https://chrome.google.com/webstore/detail/mnc-grey-theme/dlhpohbenjciehlefbfkiaikkkbhadgh
+Working link 25th Sep 2018
+
+I guess I'll add some note-to-self about what each field/setting affects.
