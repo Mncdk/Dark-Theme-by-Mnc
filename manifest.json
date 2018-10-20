@@ -5,11 +5,11 @@
   "version": "1.0",
   "theme": {
     "colors" : {
-      "frame" : [50, 50, 50],
-      "frame_inactive" : [100, 100, 100],
-      "background_tab" : [130, 130, 130],
-      "background_tab_inactive" : [130, 130, 130],
-      "toolbar" : [75, 75, 75],
+      "frame" : [40, 40, 40],
+      "frame_inactive" : [75, 75, 75],
+      "background_tab" : [100, 100, 100],
+      "background_tab_inactive" : [125, 125, 125],
+      "toolbar" : [65, 65, 65],
       "tab_text" : [255, 255, 255],
       "tab_background_text" : [0, 0, 255],
       "tab_text_inactive" : [255, 0, 0],
