@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Dark Theme by Mnc",
   "short_name": "Dark Theme Mnc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icons": { "16": "icon16.png",
              "32": "icon32.png",
              "48": "icon48.png",
