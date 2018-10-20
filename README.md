@@ -27,13 +27,17 @@ I guess I'll add some note-to-self about what each field/setting affects.
  Text on tabs. This seems to affect all tabs, active or not.
 
 "tab_background_text" :
- I've set this to bright blue, and I can't find bright blue anywhere.
+ Text on tabs in the foreground window without focus.
+ I've previously set this to bright blue (0,0,255), and I couldn't find it until I made the tabs a little darker in 1.0.
+ They then showed up as 244,244,255, suggesting to me that they were bluer than I intended.
 
 "tab_text_inactive" :
  I've set this to bright red, and I can't find bright red anywhere.
+ I think this ought to be active tab, background window.
 
 "tab_background_text_inactive" :
  I've set this to bright green, and I can't find bright green anywhere.
+ I think this ought to be inctive tab, background window.
 
 "bookmark_text" :
  The text on bookmarks, and text on the download bar, etc.
