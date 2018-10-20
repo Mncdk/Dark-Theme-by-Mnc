@@ -3,7 +3,7 @@
   After changing the name, I wanted to make sure the link in the README file was up-to-date.
   As mentioned in 1.0.1 note, that requires a new version number.
   
-  Also changed the colors a little more. Made the theme slightly darker still.
+  Also changed the colors a little more. Made the theme slightly darker still. (Usually by 5 (0-255))
   And I finally removed the stock blue color from the bookmark star/extensions puzzle piece icon/settings cog. These are
  now the same grey color as the navigation arrows, 3-dot-menu, etc.
  
