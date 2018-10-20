@@ -16,7 +16,7 @@
       "background_tab_inactive" : [125, 125, 125],
       "toolbar" : [65, 65, 65],
       "tab_text" : [255, 255, 255],
-      "tab_background_text" : [0, 0, 255],
+      "tab_background_text" : [0, 0, 0],
       "tab_text_inactive" : [255, 0, 0],
       "tab_background_text_inactive" : [0, 255, 0],
       "bookmark_text" : [175, 175, 175],
