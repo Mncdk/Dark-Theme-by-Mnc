@@ -1,3 +1,13 @@
+1.0.2
+
+  After changing the name, I wanted to make sure the link in the README file was up-to-date.
+  As mentioned in 1.0.1 note, that requires a new version number.
+
+1.0.1
+
+  I was an idiot, and forgot to make sure the final version of the 1.0 manifest file, was the one I packaged and updated to
+ the Chrome webstore. Had to increase the version number, before the store would accept an updated package.
+
 1.0
 
   Changed version numbers to 1.0. I've been using it for a month now, and I'm pretty happy with it.
