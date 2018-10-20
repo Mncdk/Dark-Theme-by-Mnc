@@ -10,11 +10,11 @@
             "128": "icon128.png" },
   "theme": {
     "colors" : {
-      "frame" : [40, 40, 40],
+      "frame" : [35, 35, 35],
       "frame_inactive" : [75, 75, 75],
-      "background_tab" : [100, 100, 100],
+      "background_tab" : [95, 95, 95],
       "background_tab_inactive" : [125, 125, 125],
-      "toolbar" : [65, 65, 65],
+      "toolbar" : [60, 60, 60],
       "tab_text" : [255, 255, 255],
       "tab_background_text" : [0, 0, 0],
       "tab_text_inactive" : [255, 0, 0],
@@ -24,7 +24,7 @@
       "button_background" : [125, 100, 100]
     },
       "tints" : {
-        "buttons" : [-1.0, -1.0, 0.7]
+        "buttons" : [-1.0, 0, 0.65]
     }
   }
 }
