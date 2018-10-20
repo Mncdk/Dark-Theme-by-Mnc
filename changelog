@@ -1,3 +1,11 @@
+1.0
+
+  Changed version numbers to 1.0. I've been using it for a month now, and I'm pretty happy with it.
+  May change colors a little (as described in the note for 0.8) at a later date, but
+ it's not annoying me enough yet, to do something about it.
+  
+  Changed manifest.json name from "Mnc Grey theme" to "Dark Theme by Mnc". Adjusted description accordingly.
+
 0.8
 
   Changed version to 0.8 just to indicate that I'm closer to a version that I'm happy with.
@@ -10,7 +18,7 @@
   Probably want inactive tabs less bright, but the active tab should still stand out a lot.
   
   I also need to figure out how much to write down. How many steps to document for posterity.
-  Whether it's to explain to others what have changed, or remind myself if I want to change things
+  Whether it's to explain to others what has changed, or remind myself if I want to change things
  at a later date.
 
 0.2
