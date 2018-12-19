@@ -32,11 +32,10 @@ I guess I'll add some note-to-self about what each field/setting affects.
  They then showed up as 244,244,255, suggesting to me that they were bluer than I intended.
 
 "tab_text_inactive" :
- I've set this to bright red, and I can't find bright red anywhere.
- I think this ought to be active tab, background window.
+ I've previously set this to bright red, and I couldn't find bright red anywhere. Suddenly, this showed up as "active tab, background window." where expected. Set it to the same value as tab_text above.
 
 "tab_background_text_inactive" :
- I've set this to bright green, and I can't find bright green anywhere.
+ I've previously set this to bright green, and I couldn't find bright green anywhere. Still never found it, but set it to the same value as tab_background_text above, for now.
  I think this ought to be inctive tab, background window.
 
 "bookmark_text" :
